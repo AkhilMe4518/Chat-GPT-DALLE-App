@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "474937546339",
+    "project_id": "chatgptappakhil",
+    "storage_bucket": "chatgptappakhil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474937546339:android:a0b877baf6f79787218a56",
+        "android_client_info": {
+          "package_name": "com.example.chatgpt_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474937546339-k0naouuitsufv0m5p2u7uc9q5u0ijogc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXyrU3wmrU3xmaq4k2y8CQWt7Vg19z5BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474937546339-k0naouuitsufv0m5p2u7uc9q5u0ijogc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "474937546339-2dqh7i1qvmip3eqlmc2g2mcs3trp8p4i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatgptApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
